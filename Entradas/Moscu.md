@@ -22,3 +22,12 @@ Definitivamente deberías visitar la Galería Tretyakov y el Museo Pushkin! Y te
 
 ![Moscu](https://eacnur.org/sites/default/files/migrate_images/moskva-2.jpg)
 
+## Datos Curiosos
+
+```
+1: Moscú es la ciudad más grande de Europa.
+Con más de 19 millones de habitantes en su área metropolitana , la capital rusa es la ciudad más poblada del continente europeo. Esta cifra resulta aún más impresionante si se tiene en cuenta la inmensidad de Rusia: el espacio es un recurso abundante. Sin embargo, el óblast de Moscú, que representa tan solo el 0,25 % de la superficie terrestre rusa, alberga a más del 13,5 % de sus residentes.
+
+2: El mercado inmobiliario de Moscú se encuentra entre los más caros del mundo.
+Con tanta gente compitiendo por tan poco espacio en el área metropolitana de Moscú, no sorprende que Moscú se encuentre entre las ciudades más caras del mundo para comprar o alquilar bienes raíces. Moscú se sitúa constantemente entre las 10 ciudades más caras del mundo en cuanto a precio de mercado inmobiliario . Además, la ciudad atrae a la élite adinerada. Con más de 68.000 millonarios y multimillonarios viviendo dentro de sus límites, Moscú ofrece una amplia gama de entretenimiento de lujo para quienes cuentan con grandes presupuestos.
+```
