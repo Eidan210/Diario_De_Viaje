@@ -32,3 +32,7 @@ Lugares agradables y poco conocidos en la zona: Lago de Santa Ana (Lacul Sf. Ana
 
 Ir más lejos hacia Cluj, por ejemplo, en solo una semana es un poco exagerado si sales de Bucarest.
 ```
+
+## imagen
+![Rumania](https://nuba.com/mx/wp-content/uploads/2023/07/Castillo-Bran-Rumania-Carpatos-scaled.jpeg)
+
