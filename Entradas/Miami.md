@@ -22,3 +22,7 @@ Naturaleza: Visitar el Parque Nacional de los Everglades para ver caimanes.
 Excursiones: Hacer un tour en barco por la bahía de Vizcaya para ver mansiones.
 Compras: Los outlets principales incluyen Sawgrass Mills, Aventura Mall y Dolphin Mall.
 ```
+
+## imagen
+![Miami](https://ahoraeg.com/como/wp-content/uploads/2025/12/Curiosidades-de-Miami-que-te-sorprenderan.webp)
+
