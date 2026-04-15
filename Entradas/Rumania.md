@@ -36,3 +36,15 @@ Ir más lejos hacia Cluj, por ejemplo, en solo una semana es un poco exagerado s
 ## imagen
 ![Rumania](https://nuba.com/mx/wp-content/uploads/2023/07/Castillo-Bran-Rumania-Carpatos-scaled.jpeg)
 
+## Datos Curiosos
+
+```
+curiosidades de Rumania
+El segundo glaciar subterráneo más grande del mundo.
+Las monedas que se utilizaban en Rumanía.
+La capital de Rumanía es Bucarest.
+El gran misterio de los montes bucegi en Rumania.
+Los dieces de Nadia Comaneci.
+Trovant, Las piedras que crecen y se reproducen.
+El país de Drácula.
+```
