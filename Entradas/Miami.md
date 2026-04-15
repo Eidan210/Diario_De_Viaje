@@ -26,3 +26,8 @@ Compras: Los outlets principales incluyen Sawgrass Mills, Aventura Mall y Dolphi
 ## imagen
 ![Miami](https://ahoraeg.com/como/wp-content/uploads/2025/12/Curiosidades-de-Miami-que-te-sorprenderan.webp)
 
+## Datos Curiosos
+
+```
+Miami es la única gran ciudad de Estados Unidos fundada por una mujer . La empresaria local Julia Tuttle, conocida como la "Madre de Miami", contribuyó a dar forma a los inicios de la ciudad. Convenció al promotor inmobiliario Henry Flagler para que extendiera su ferrocarril Florida East Coast Railroad hasta la zona, una decisión que impulsó el crecimiento del Miami moderno
+```
