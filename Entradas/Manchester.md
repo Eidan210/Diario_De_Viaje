@@ -22,3 +22,7 @@ Paseos y Arquitectura: Explora la histórica Biblioteca Chetham (la más antigua
 Compras y Ambiente: Disfruta del centro comercial Trafford Centre, explora el alternativo Northern Quarter y el animado Gay Village en Canal Street.
 ```
 
+## Imagen
+
+![Manchester](https://blog.esl-idiomas.com/wp-content/uploads/2019/04/485450351.jpg)
+
