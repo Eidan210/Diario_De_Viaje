@@ -30,3 +30,17 @@ Hay muchas que ver y hacer en París, así que te recomendamos preparar un plann
 ```
 
 ![paris](https://viajes.chavetas.es/wp-content/uploads/albums/paris17/viajaraparis07.jpg)
+
+## Datos curiosos
+```
+1. No la llaman la Ciudad de la Luz solo por sus luces
+Paisaje urbano de París, con la Torre Eiffel al fondo, iluminada por la noche y vista desde el otro lado del Sena.
+París se ganó su nombre por las ideas de la Ilustración, no solo por las luces.
+
+Con solo echar un vistazo a París de noche, podrías pensar que su apodo de «Ciudad de la Luz» se debe a los letreros de neón, las luces brillantes y el faro de la Torre Eiffel. Eso es cierto en parte, ya que París fue una de las primeras ciudades europeas en adoptar el alumbrado público, a instancias de Luis XIV. Sin embargo, el apodo ganó más fuerza a mediados del siglo XVII, cuando París se convirtió en el centro de la Ilustración. Los avances filosóficos y científicos de esa época pusieron a París en el mapa, pero hoy en día todavía puedes dejarte deslumbrar por las luces centelleantes mientras navegas por el Sena al atardecer.
+
+2.Los artistas protestaron por la construcción de la Torre Eiffel.
+La Torre Eiffel se iluminaba por la noche, proyectando su famoso foco.
+En 1887, los artistas dijeron que la Torre Eiffel era un monstruo.
+
+Si les hubieras dicho a los artistas parisinos de 1887 que la Torre Eiffel se convertiría en el símbolo más emblemático de la ciudad, se habrían quedado impactados y horrorizados. Hace tiempo, este monumento se consideraba una mancha en el paisaje urbano, tan cuidado. Un grupo de artistas famosos se quejó de la torre, llamándola una «chimenea negra gigante». Gustave Eiffel y el arquitecto Stephen Sauvestre defendieron sus planes, comparando la Dama de Hierro con las pirámides egipcias.
