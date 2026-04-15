@@ -16,3 +16,7 @@ Londres, capital de Inglaterra, es un destino que combina historia, cultura y un
 Si te apasiona el arte y la cultura, Londres alberga algunos de los museos y galerías más prestigiosos del mundo, como el Museo de Historia Natural o las dos galerías Tate. Londres es un lugar donde cada rincón ofrece algo por descubrir.
 
 ```
+
+## Imagen Referencia
+
+![Londres](https://www.civitatis.com/blog/wp-content/uploads/2024/01/shutterstock_607235345-scaled.jpg)
