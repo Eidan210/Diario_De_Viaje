@@ -17,3 +17,12 @@ Inperdible el coliseo mas te vale ir
 
 ![Roma](https://www.barcelo.com/guia-turismo/wp-content/uploads/que-visitar-en-roma.jpg)
 
+## Datos Curiosos
+```
+1: La Plaza de España no es española en absoluto.
+Estrictamente hablando, la famosa escalinata exterior de Roma es francesa, ya que fue financiada por el diplomático francés Étienne Gueffier. También podría decirse que es italiana, puesto que fue diseñada por los arquitectos italianos Francesco de Sanctis y Alessandro Specchi. ¿Pero española? El nombre de la escalinata se debe a que la Embajada de España se encontraba al pie de la misma cuando se construyó. 
+
+2: Lengua de flamenco en lugar de pizza y pasta
+En la antigua Roma, una papilla hecha con harina de espelta y enriquecida con verduras formaba parte de la dieta básica. La gente común también comía pan, habas y repollo. En la alta sociedad, el gastrónomo Marco Gavio Apicio  introdujo platos extravagantes como la carne de cerdo de animales engordados con higos. Lenguas de flamenco y talones de camello también se servían como manjares en la antigua alta sociedad. ¡  Buen provecho ! 
+```
+![Datos_curiosos](https://www.meininger-hotels.com/blog/app/uploads/2020/09/Colosseum_3-Kopie-1024x683.jpg)
