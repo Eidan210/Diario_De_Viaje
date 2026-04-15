@@ -26,3 +26,18 @@ Compras y Ambiente: Disfruta del centro comercial Trafford Centre, explora el al
 
 ![Manchester](https://blog.esl-idiomas.com/wp-content/uploads/2019/04/485450351.jpg)
 
+## Datos curiosos
+```
+El patrimonio musical de Manchester y sus bandas influyentes
+Manchester posee un patrimonio musical que ha dejado una huella indeleble en la escena musical mundial. Desde el arenoso punk rock de finales de los 70 hasta el vibrante indie rock y la música electrónica de los 80 y posteriores, la ciudad ha sido un caldo de cultivo para diversos talentos y movimientos musicales.
+```
+![Musica](https://media-edg.barcelona.cat/wp-content/uploads/2025/07/23114006/4-Manchester%40Tarsnish-Vision-760x428.jpg)
+
+```
+La rivalidad entre el Manchester United y el Manchester City
+Mánchester no sólo es famosa por su patrimonio musical y su historia industrial, sino también por albergar una de las rivalidades futbolísticas más encarnizadas del mundo: Manchester United vs. Manchester City. Esta rivalidad trasciende el deporte, arraigada profundamente en la identidad y la cultura de la ciudad, cautiva a los aficionados y divide lealtades entre generaciones.
+
+Raíces históricas
+La rivalidad entre el Manchester United y el Manchester City se remonta a principios del siglo XX, cuando se fundaron ambos clubes. El United, originalmente Newton Heath LYR FC, se fundó en 1878, mientras que el City, fundado como St. Mark’s (West Gorton) en 1880, han compartido la misma ciudad desde sus inicios. A lo largo de los años, su competencia en el campo ha evolucionado hasta convertirse en un feroz derbi, conocido como el Derbi de Manchester.
+```
+![futbol](https://palabrasdefutbol.com/wp-content/uploads/2024/08/escudos-manchester-united-manchester-city.png)
