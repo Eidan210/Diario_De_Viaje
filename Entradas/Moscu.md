@@ -17,3 +17,8 @@ En San Petersburgo había un restaurante encantador con una vista genial en lo a
 
 Definitivamente deberías visitar la Galería Tretyakov y el Museo Pushkin! Y te recomiendo un montón que vayas al Planetario de Moscú (estoy estudiando en su club de astronomía, jaja). En la Sala Estelar tienen unos shows épicos de verdad, y por lo que sé, si eres extranjero, puedes conseguir audífonos con narración en inglés.
 ```
+
+## Imagen
+
+![Moscu](https://eacnur.org/sites/default/files/migrate_images/moskva-2.jpg)
+
