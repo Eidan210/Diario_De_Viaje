@@ -28,3 +28,5 @@ Hay muchas que ver y hacer en París, así que te recomendamos preparar un plann
 
 ¿Qué hay en cada distrito? En el 1 por ejemplo está, entre otras cosas, el Louvre, en el 2 la Opera, en el 3 se encuentra el barrio de Marais (el corazón histórico de París), en el 4 Notre Dame, en el 5 el Barrio Latino, el 6 es un barrio lleno de cultura y un pelín pijo jeje, en el 7 está la Torre Eiffel… por supuesto no puede faltar un paseo en barco por el Sena
 ```
+
+![paris](https://viajes.chavetas.es/wp-content/uploads/albums/paris17/viajaraparis07.jpg)
